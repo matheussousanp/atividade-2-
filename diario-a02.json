@@ -1,0 +1,147 @@
+[
+ {
+  "momento": 1792200512.3026576,
+  "etapa": "passo-0",
+  "nota": "kit ligado"
+ },
+ {
+  "momento": 1792200518.321244,
+  "etapa": "previsao",
+  "nota": "valor_carga_b='🔥 Dia cheio', versao_correta='A'"
+ },
+ {
+  "momento": 1792200712.514208,
+  "etapa": "previsao-revelada",
+  "nota": "Sim, acertei a previsão. Foi interessante ver na prática como o segundo 'if' independente destruiu a classificação correta que o primeiro 'if' tinha feito."
+ },
+ {
+  "momento": 1792200935.917933,
+  "etapa": "exercicio-2",
+  "nota": "..."
+ },
+ {
+  "momento": 1792200937.1013353,
+  "etapa": "exercicio-2",
+  "nota": "..."
+ },
+ {
+  "momento": 1792200949.1310353,
+  "etapa": "exercicio-2",
+  "nota": "Utilizei o operador 'or' para avaliar duas condições e o if/else para separar as duas filas de atendimento."
+ },
+ {
+  "momento": 1792200952.2549045,
+  "etapa": "exercicio-2",
+  "nota": "Utilizei o operador 'or' para avaliar duas condições e o if/else para separar as duas filas de atendimento."
+ },
+ {
+  "momento": 1792201016.3972847,
+  "etapa": "exercicio-3",
+  "nota": "A importAncia classificar dados em mais de duas categorias usando if-elif-else, testando as condições da maior para a menor.."
+ },
+ {
+  "momento": 1792201137.0705729,
+  "etapa": "exercicio-4",
+  "nota": "Match/case para selecionar o modal e, dentro de cada caso, usar if-else para verificar se o valor atinge o limite do frete grátis."
+ },
+ {
+  "momento": 1792201203.8360424,
+  "etapa": "exercicio-5",
+  "nota": "Aprendi como aplicar a lógica de decisão com sucesso!"
+ },
+ {
+  "momento": 1792201735.3577328,
+  "etapa": "exercicio-7",
+  "nota": "Achei muito bacana ver na prática como juntar try, match e if  para resolver um problema real de negócio. Deu pra entender bem como organizar várias regras num código só!"
+ },
+ {
+  "momento": 1792202053.7060142,
+  "etapa": "questao-autoral",
+  "nota": "Criar a questão ajudou a fixar que o try/except só pega erros do Python, enquanto as regras de negócio dependem de nós usarmos o raise de forma objetiva"
+ },
+ {
+  "momento": 1792202341.7292695,
+  "etapa": "exercicio-1",
+  "nota": "Compreendi como calcular a diferença e usar um if simples para o alerta de stock."
+ },
+ {
+  "momento": 1792202370.655485,
+  "etapa": "exercicio-6",
+  "nota": "Validação de dados e tratamento"
+ },
+ {
+  "momento": 1792202395.4259195,
+  "etapa": "exercicio-1",
+  "nota": "Compreendi como calcular a diferença e usar um if simples para o alerta de stock."
+ },
+ {
+  "momento": 1792206105.255282,
+  "etapa": "passo-0",
+  "nota": "kit ligado"
+ },
+ {
+  "momento": 1792206129.1460724,
+  "etapa": "previsao",
+  "nota": "valor_carga_b='🔥 Dia cheio', versao_correta='A'"
+ },
+ {
+  "momento": 1792206139.410929,
+  "etapa": "previsao-revelada",
+  "nota": "Sim, acertei a previsão. Foi interessante ver na prática como o segundo 'if' independente destruiu a classificação correta que o primeiro 'if' tinha feito."
+ },
+ {
+  "momento": 1792206195.8822222,
+  "etapa": "passo-0",
+  "nota": "kit ligado"
+ },
+ {
+  "momento": 1792206195.9154208,
+  "etapa": "previsao",
+  "nota": "valor_carga_b='🔥 Dia cheio', versao_correta='A'"
+ },
+ {
+  "momento": 1792206195.941694,
+  "etapa": "previsao-revelada",
+  "nota": "Sim, acertei a previsão. Foi interessante ver na prática como o segundo 'if' independente destruiu a classificação correta que o primeiro 'if' tinha feito."
+ },
+ {
+  "momento": 1792206195.9846349,
+  "etapa": "exercicio-1",
+  "nota": "Compreendi como calcular a diferença e usar um if simples para o alerta de stock."
+ },
+ {
+  "momento": 1792206196.045736,
+  "etapa": "exercicio-2",
+  "nota": "Utilizei o operador 'or' para avaliar duas condições e o if/else para separar as duas filas de atendimento."
+ },
+ {
+  "momento": 1792206196.090593,
+  "etapa": "exercicio-3",
+  "nota": "A importAncia classificar dados em mais de duas categorias usando if-elif-else, testando as condições da maior para a menor.."
+ },
+ {
+  "momento": 1792206196.1355362,
+  "etapa": "exercicio-4",
+  "nota": "Match/case para selecionar o modal e, dentro de cada caso, usar if-else para verificar se o valor atinge o limite do frete grátis."
+ },
+ {
+  "momento": 1792206196.179461,
+  "etapa": "exercicio-5",
+  "nota": "Aprendi como aplicar a lógica de decisão com sucesso!"
+ },
+ {
+  "momento": 1792206196.2405906,
+  "etapa": "exercicio-6",
+  "nota": "Validação de dados e tratamento"
+ },
+ {
+  "momento": 1792206196.2821834,
+  "etapa": "exercicio-7",
+  "nota": "Achei muito bacana ver na prática como juntar try, match e if  para resolver um problema real de negócio. Deu pra entender bem como organizar várias regras num código só!"
+ },
+ {
+  "momento": 1792206196.3231695,
+  "etapa": "questao-autoral",
+  "nota": "Criar a questão ajudou a fixar que o try/except só pega erros do Python, enquanto as regras de negócio dependem de nós usarmos o raise de forma objetiva"
+ }
+]
